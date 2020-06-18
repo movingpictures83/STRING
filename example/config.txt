@@ -1,0 +1,2 @@
+Prefix plugins/STRING/example
+Plugin STRING inputfile trpA outputfile results.txt
