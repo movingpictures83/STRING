@@ -1,8 +1,9 @@
+# STRING
 # Language: Python
 # Input: Wikipedia Query
-# Dependency: PyPathway
 # Output: TXT
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: pypathway==0.4.0
 
 Query the STRING database (Szklarczyk et al, 2011).
 
