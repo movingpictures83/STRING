@@ -1,7 +1,8 @@
 ***************************************
+queryItem: trpA
 stringId: 9606.ENSP00000234798
-preferredName: TPSG1
-taxonName: Homo sapiens
-annotation: Tryptase gamma; Serine proteases
 ncbiTaxonId: 9606
+taxonName: Homo sapiens
+preferredName: TPSG1
+annotation: Tryptase gamma; Serine proteases
 ***************************************
